@@ -11,7 +11,7 @@ sidebar_sort_order: 10
 
 This year features the [Maximum-Agreement Forest (MAF)](./maf) problem arising in <a href="https://en.wikipedia.org/wiki/Phylogenetics">phylogenetics</a> (the study of evolutionary histories). 
 
-See also the [Format Specification](./format) and the [IPEC'25 Announcement Slides](./announcement_slides.pdf).
+See also the [Results](./results), the [Format Specification](./format), and the [IPEC'25 Announcement Slides](./announcement_slides.pdf).
 
 
 ## Timeline
@@ -27,12 +27,12 @@ See also the [Format Specification](./format) and the [IPEC'25 Announcement Slid
  - Solver description: 8th July 2026 23:59 AoE &#x2705;
  - End of the public reviewing phase: 19th July 2026 23:59 AoE &#x2705;
  - Final solver submission (see below): 26th July 2026 23:59 AoE &#x2705;
- - 31th July 2026: [Preliminary results](./results) &#x2705;
- - 7th August 2026: Final results
+ - 31th July 2026: Preliminary results &#x2705;
+ - 15th August 2026: [Results](./results) &#x2705;
 
 ## Review Phase
 Resources:
-- list of [all submissions including a preliminary ranking](https://algorithm.engineering/pace26/index.html) based only on the public instances.
+- ~~list of [all submissions including a preliminary ranking](https://algorithm.engineering/pace26/index.html) based only on the public instances.~~ (see final ranking)
   Please observe that we the ranking does not include all solvers yet, and that we intend to a large test suite, so expect changes.
 - a collection of all [build scripts and submission commits](https://codeberg.org/manpen/pace-build)
 
